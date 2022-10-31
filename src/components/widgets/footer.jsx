@@ -12,7 +12,7 @@ const Footer = () => {
         <img src={github} alt="" />
         <img src={slack} alt="" />
       </div>
-      <div className="mt-20 md:mt-56">
+      <div className="mt-20 md:mt-24">
         <hr className="w-full text-black " />
         <div
           className="flex flex-col md:flex-row space-y-4 justify-between w-5/6 mx-auto 
